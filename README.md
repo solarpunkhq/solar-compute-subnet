@@ -1,7 +1,8 @@
-# Targon: A Deterministic Verification of Large Language Models
+![1500x500 (12)](https://github.com/user-attachments/assets/85ac95e9-87d1-46a5-9e26-ab2714372b22)
 
-Targon (Bittensor Subnet 4) is a deterministic verification mechanism that is
-used to incentivize miners to run openai compliant endpoints and serve synthetic
+# Solarpunk Solar Compute Subnet (fork of [manifold-inc/targon](https://github.com/manifold-inc/targon))
+
+Solar Compute Subnet (Bittensor Subnet) is a solar-only distributed GPU network to incentivize miners to run openai compliant endpoints and serve synthetic
 and organic queries.
 
 NOTICE: Using this software, you must agree to the Terms and Agreements provided
